@@ -17,8 +17,8 @@ you feel would help you develop into a more confident and skilled coach and deve
 
 ### Technical 
 
-- Strong knowledge base in fundamental programming concepts 
-- Ability to self-teach and upskill at pace
+- Strong knowledge base in fundamental programming concepts ⏱
+- Ability to self-teach and upskill at pace ⏱
 - Desire to be a T-shaped engineer, with broad knowledge along with a specialist area to provide expertise to the rest of the coaching team
 - Curiosity about latest tech developments 
 - Engineering mindset, with the ability to put concepts together to build more complicated applications and solve complex problems
@@ -28,7 +28,7 @@ you feel would help you develop into a more confident and skilled coach and deve
 
 - Ability to articulate programming concepts, building up from first principles and tying concepts to real life metaphors
 - Ability to put together high quality teaching materials that follow the School of Code teaching philosophy  
-- Confidence in speaking and live-coding in front of an audience full of bootcampers and coaching in smaller groups
+- Confidence in speaking and live-coding in front of an audience full of bootcampers and coaching in smaller groups ⏱
 - Flexibility to respond to unexpected questions and curiosity from bootcampers, to reframe explanations when needed, and to tailor the speed of teaching to the bootcampers’ rate of understanding
 - Ability to balance unblocking without giving away the answers and helping bootcampers be independent and self-directed learners
 - Ability to be at peace with not always knowing all the answers and confidence to model creative problem solving and debugging
