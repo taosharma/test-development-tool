@@ -83,4 +83,6 @@ Review Goals and actions with Accountability Partner.
 
 ## Feedback from Partner
 
+- Check-in w/ Max 13/04: Good feedback! Nice discussion as well around readjusting the scope of goals, including discovering new actions/elements of them (e.g. needing time to set up the DB) that we didn't anticipate when setting actions and getting more information about what's realistic (e.g. three hours of something might be unrealistic, but one hour is doable).
+
 ## Outcome from meeting 
