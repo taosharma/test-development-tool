@@ -1,53 +1,56 @@
-# Goal Action Plan 
+# Goal Action Plan
 
-Date: 
-Accountability Partner: 
+Date:
+Accountability Partner:
 
-## Goal 1 
+## Goal 1
 
-**I want to focus on...** 
+**I want to focus on...**
 
-**I will achieve this by...** 
+- Curiosity about latest tech developments
 
-| Action      | Date |
-| ----------- | ----------- |
-| TBA      | TBA       |
-| TBA   | TBA        |
-| TBA   | TBA        |
+**I will achieve this by...**
 
+| Action                                   | Date     |
+| ---------------------------------------- | -------- |
+| Read one tech article a day.             | 07/05/21 |
+| Find tech sites which suit my interests. | 07/05/21 |
+| TBA                                      | TBA      |
 
 ## Goal 2
 
-**I want to focus on...** 
+**I want to focus on...**
 
-**I will achieve this by...** 
+- Ability to articulate programming concepts, building up from first principles and tying concepts to real life metaphors
 
-| Action      | Date |
-| ----------- | ----------- |
-| TBA      | TBA       |
-| TBA   | TBA        |
-| TBA   | TBA        |
+**I will achieve this by...**
 
-## Goal 3 
+| Action                                                   | Date     |
+| -------------------------------------------------------- | -------- |
+| Brainstorm metaphors for different programming concepts. | 07/05/21 |
+| Practice using metaphors with bootcampers.               | 07/05/21 |
+| TBA                                                      | TBA      |
 
-**I want to focus on...** 
+## Goal 3
 
-**I will achieve this by...** 
+**I want to focus on...**
 
-| Action      | Date |
-| ----------- | ----------- |
-| TBA      | TBA       |
-| TBA   | TBA        |
-| TBA   | TBA        |
+**I will achieve this by...**
+
+| Action | Date |
+| ------ | ---- |
+| TBA    | TBA  |
+| TBA    | TBA  |
+| TBA    | TBA  |
 
 # Review with Accountability Partner
 
-Review Goals and actions with Accountability Partner. 
+Review Goals and actions with Accountability Partner.
 
 - How did the month go?
-- Were goal actions completed by the date? 
-- If all goals were achieved, do you feel confident in signing off yourself in that area? 
+- Were goal actions completed by the date?
+- If all goals were achieved, do you feel confident in signing off yourself in that area?
 
 ## Feedback from Partner
 
-## Outcome from meeting 
+## Outcome from meeting
